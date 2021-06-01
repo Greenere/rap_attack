@@ -1,6 +1,6 @@
-# RAP: Region-restricted Adversarial Perturbation  ![visitors](https://visitor-badge.glitch.me/badge?page_id=greenere.rap_attack)
+# RAP: Region-restricted Adversarial Perturbation  
 
-By LI Haoyang, modified in Apr. 2021, originally written in Aug. 2019
+By LI Haoyang, modified in Apr. 2021, originally written in Aug. 2019 ![visitors](https://visitor-badge.glitch.me/badge?page_id=greenere.rap_attack)
 
 This is a **generalized** version of RSAEG:Region-restricted Signature Adversarial Example Generation published in the following paper [Black-box attack against handwritten signature verification with region-restricted adversarial perturbations](http://www.sciencedirect.com/science/article/pii/S0031320320304921).
 
